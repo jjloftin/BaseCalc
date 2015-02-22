@@ -1,0 +1,10 @@
+BaseCalcSpec.txt
+
+
+What do I want this to do:
+
+Give a user a prompt to create a base character set: "012..9" for a typical base 10 number system.
+Allow them to do calculations with the base character set with no intrinsic reference to the base it is in.
+
+Why?
+Why not. Just playing around.
